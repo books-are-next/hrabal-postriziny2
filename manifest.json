@@ -1,0 +1,357 @@
+{
+  "author": "Bohumil Hrabal",
+  "edition": "beletrie",
+  "identifier": "hrabal-postriziny-951d333",
+  "languagecode": "cs",
+  "modified": "2021-12-03T10:09:36.138Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Postřižiny",
+  "revision": "951d333",
+  "generatedAt": {
+    "date": "Fri Dec 03 2021 10:25:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638527117093
+  },
+  "documents": [
+    {
+      "title": "Postřižiny",
+      "file": "postriziny_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "postriziny_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Postřižiny",
+      "file": "postriziny_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "postriziny_002.html",
+      "next": "postriziny_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Postřižiny",
+      "file": "postriziny_006.html",
+      "words": 1947,
+      "chars": 11953,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 2,
+      "prev": "postriziny_005.html",
+      "next": "postriziny_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Postřižiny",
+      "file": "postriziny_007.html",
+      "words": 2758,
+      "chars": 15947,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 3,
+      "prev": "postriziny_006.html",
+      "next": "postriziny_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Postřižiny",
+      "file": "postriziny_008.html",
+      "words": 1164,
+      "chars": 6859,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 4,
+      "prev": "postriziny_007.html",
+      "next": "postriziny_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Postřižiny",
+      "file": "postriziny_009.html",
+      "words": 2729,
+      "chars": 15572,
+      "ideas": 79,
+      "role": "chapter",
+      "order": 5,
+      "prev": "postriziny_008.html",
+      "next": "postriziny_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Postřižiny",
+      "file": "postriziny_010.html",
+      "words": 2295,
+      "chars": 13367,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 6,
+      "prev": "postriziny_009.html",
+      "next": "postriziny_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Postřižiny",
+      "file": "postriziny_011.html",
+      "words": 3189,
+      "chars": 18760,
+      "ideas": 62,
+      "role": "chapter",
+      "order": 7,
+      "prev": "postriziny_010.html",
+      "next": "postriziny_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Postřižiny",
+      "file": "postriziny_012.html",
+      "words": 1,
+      "chars": 1,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 8,
+      "prev": "postriziny_011.html",
+      "next": "postriziny_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 • Postřižiny",
+      "file": "postriziny_013.html",
+      "words": 2062,
+      "chars": 11924,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 9,
+      "prev": "postriziny_012.html",
+      "next": "postriziny_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9 • Postřižiny",
+      "file": "postriziny_014.html",
+      "words": 4688,
+      "chars": 26443,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 10,
+      "prev": "postriziny_013.html",
+      "next": "postriziny_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10 • Postřižiny",
+      "file": "postriziny_015.html",
+      "words": 1352,
+      "chars": 7815,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 11,
+      "prev": "postriziny_014.html",
+      "next": "postriziny_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11 • Postřižiny",
+      "file": "postriziny_016.html",
+      "words": 1,
+      "chars": 2,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 12,
+      "prev": "postriziny_015.html",
+      "next": "postriziny_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12 • Postřižiny",
+      "file": "postriziny_017.html",
+      "words": 2285,
+      "chars": 13216,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 13,
+      "prev": "postriziny_016.html",
+      "next": "postriziny_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Postřižiny",
+      "file": "postriziny_019.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 14,
+      "prev": "postriziny_017.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Postřižiny",
+      "file": "colophon.html",
+      "words": 136,
+      "chars": 918,
+      "ideas": 21,
+      "role": "colophon",
+      "order": null,
+      "prev": "postriziny_019.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Postřižiny",
+              "id": "postřižiny",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 24612,
+      "chars": 142812,
+      "ideas": 313
+    },
+    "chapters": {
+      "words": 24471,
+      "chars": 141859,
+      "ideas": 288
+    }
+  }
+}
