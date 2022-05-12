@@ -1,5 +1,6 @@
 ---
 title: '4'
+contentType: prose
 ---
 
 Na víku krabice silice svalů bylo napsáno: I vy budete vlastnit tak krásné tělo, mít mohutné svaly a strašlivou sílu!
