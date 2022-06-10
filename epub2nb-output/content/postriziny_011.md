@@ -5,8 +5,6 @@ contentType: prose
 
 Strýc Pepin nejraději sedával za humny, ukryt z jedné strany ovocným sadem, z druhé strany komínem, u kterého byly vyrovnané dubové dýhy všech velikostí, dýhy, ze kterých se v bednárně dělaly sudy, podle potřeby štěňata, čtvrthektolitry, půlky a hektolitry a dvouhektolitry anobrž tupláky a pak veliké padesátihektolitrové a stohektolitrové sudy, ve kterých ve spilkách a sklepích byly uloženy celé várky piva, sudy, ve kterých zrálo pivo na pivo obyčejné anebo ležák. Tady strýc Pepin, když nemohl ševcovat, tady si našel klacek a chodil s ním podle humen a cvičil parádní marše, souboje na bodáky. Aby tolik nekřičel, prosil mne Francin, abych na strýce dohlédla.
 
-  
-
 „To je dobře, švagrová, že jdete,“ řekl Pepin, „von je Francin nějaké chabrus na nervy, nervóza, podle spisku páně Batisty by si měl omévat přirození vlažnó vodó anebo se pohybovat na zdravým vzduchu. Ale když už jste tady, tak budeme držet školu anobrž šulbildunk, protože já jsem měl samý jedničky, pochvalná vyznamenání, ne jako jeden blbec, Hanák, které při přehlídce vystópil a povídá plukovníkovi von Wuchererovi: Pantáto, tady máte ty vaše tule a talony a já jdu dom, já vojákem nebodo… a plukovník řval na šarže: Co to tady máte za choleru?“
 
 „Pepinka,“ řekla jsem.
