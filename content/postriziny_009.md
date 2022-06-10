@@ -5,8 +5,6 @@ contentType: prose
 
 Na víku krabice silice svalů bylo napsáno: I vy budete vlastnit tak krásné tělo, mít mohutné svaly a strašlivou sílu!
 
-  
-
 A Francin každé ráno cvičil svaly, které sice měl zrovna tak nádherné jako ten gladiátor na víku těch síličů svalů, avšak Francin viděl sám sebe jako staženého králíčka. Postavila jsem na plotnu hrnec s bramborami, vzala krabici, na které byla fotografie nádherného borce, a hlasitě jsem přečetla:
 
 „I vy budete mít sílu jako tygr, který jednou ranou své tlapy zabije dobytče daleko věší, než je sám.“
