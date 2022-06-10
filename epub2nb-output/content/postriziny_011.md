@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Strýc Pepin nejraději sedával za humny, ukryt z jedné strany ovocným sadem, z druhé strany komínem, u kterého byly vyrovnané dubové dýhy všech velikostí, dýhy, ze kterých se v bednárně dělaly sudy, podle potřeby štěňata, čtvrthektolitry, půlky a hektolitry a dvouhektolitry anobrž tupláky a pak veliké padesátihektolitrové a stohektolitrové sudy, ve kterých ve spilkách a sklepích byly uloženy celé várky piva, sudy, ve kterých zrálo pivo na pivo obyčejné anebo ležák. Tady strýc Pepin, když nemohl ševcovat, tady si našel klacek a chodil s ním podle humen a cvičil parádní marše, souboje na bodáky. Aby tolik nekřičel, prosil mne Francin, abych na strýce dohlédla.
 
 „To je dobře, švagrová, že jdete,“ řekl Pepin, „von je Francin nějaké chabrus na nervy, nervóza, podle spisku páně Batisty by si měl omévat přirození vlažnó vodó anebo se pohybovat na zdravým vzduchu. Ale když už jste tady, tak budeme držet školu anobrž šulbildunk, protože já jsem měl samý jedničky, pochvalná vyznamenání, ne jako jeden blbec, Hanák, které při přehlídce vystópil a povídá plukovníkovi von Wuchererovi: Pantáto, tady máte ty vaše tule a talony a já jdu dom, já vojákem nebodo… a plukovník řval na šarže: Co to tady máte za choleru?“
@@ -124,3 +126,5 @@ A v černé sluji se objevila bílá nohavice, skoro až u stropu toho sazemi
 A pan de Giorgi se pustil kramlí, nejdřív se vyvalily z komína mour a saze, vyvalily se před komín, něžné a kadeřavé krtinky sazí, a ozvalo se kašlání a vyběhli už docela černí hasiči a v záchranné plachtě vynesli cosi, jako by chytili velikou štiku nebo sumce, a položili plachtu na zem a z mouru a prachu se vztyčil úplně černý pan de Giorgi, smál se, bílé vrásky smíchu mu napraskaly po černém obličeji, pan de Giorgi vytáhl trumpetku a zatroubil na ni a prohlásil: „Tím považujeme záchranné práce za skončené.“
 
 A vyšel z hromady mouru a nastavoval obě ruce a vynucoval si gratulace a procházel se sebevědomý a radostně prkenný a já jsem viděla, že pan de Giorgi bude z tohoto sestupu vnitřkem komínu žít ne pár let, ale celý svůj zbývající život.
+
+</section>

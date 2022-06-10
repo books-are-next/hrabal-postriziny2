@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-postriziny-8832ab5",
-  "revision": "8832ab5",
+  "identifier": "hrabal-postriziny-e8f00da",
+  "revision": "e8f00da",
   "readingOrder": [
     "promo.html",
     "postriziny_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Fri Jun 10 2022 14:17:02 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654870622379
+    "date": "Fri Jun 10 2022 17:50:23 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883423692
   },
   "documents": [
     {
@@ -48,9 +48,9 @@
     {
       "title": "Postřižiny",
       "file": "postriziny_005.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
+      "words": 7,
+      "chars": 39,
+      "ideas": 2,
       "role": "chapter",
       "order": 1,
       "prev": "promo.html",
@@ -188,9 +188,9 @@
     {
       "title": "7",
       "file": "postriziny_012.html",
-      "words": 1,
-      "chars": 1,
-      "ideas": 1,
+      "words": 3079,
+      "chars": 17649,
+      "ideas": 2,
       "role": "chapter",
       "order": 8,
       "prev": "postriziny_011.html",
@@ -268,9 +268,9 @@
     {
       "title": "11",
       "file": "postriziny_016.html",
-      "words": 1,
-      "chars": 2,
-      "ideas": 1,
+      "words": 1672,
+      "chars": 9902,
+      "ideas": 2,
       "role": "chapter",
       "order": 12,
       "prev": "postriziny_015.html",
@@ -308,9 +308,9 @@
     {
       "title": "Postřižiny",
       "file": "postriziny_019.html",
-      "words": 0,
+      "words": 1,
       "chars": 0,
-      "ideas": 0,
+      "ideas": 1,
       "role": "chapter",
       "order": 14,
       "prev": "postriziny_017.html",
@@ -328,9 +328,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 113,
-      "chars": 737,
-      "ideas": 14,
+      "words": 84,
+      "chars": 573,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "postriziny_019.html",
@@ -348,14 +348,14 @@
   ],
   "totals": {
     "all": {
-      "words": 24589,
-      "chars": 142631,
-      "ideas": 306
+      "words": 29317,
+      "chars": 170054,
+      "ideas": 304
     },
     "chapters": {
-      "words": 24471,
-      "chars": 141859,
-      "ideas": 288
+      "words": 29228,
+      "chars": 169446,
+      "ideas": 293
     }
   }
 }
