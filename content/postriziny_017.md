@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 Podívala jsem se na hodinky, to byl čas, kdy Boďa Červinka končí svoji malou rundu, jistě už koupil výhodně zeleninu a z radosti nad takovou koupí se stavil nejdřív na náměstí U Svobodů, kde si dal dvě decičky vermutu a pět deka uherského salámu, pak se stavil v Grandu, kde si jistě dal malý gulášek a tři plzeňská piva, pak, aby začal uzavírat tu svoji malou rundu, stavil se v drogerii u Mikolášky, a setrvávaje v přátelském hovoru, vypil tři číšky koňaku, avšak ono je i možné, že Boďa měl takovou radost, že vydělal na výhodné koupi zeleniny dvě koruny, že pokračoval v takzvané velké rundě, to jest, ještě se stavil Na Knížecí na černou kávu s originál jamajským rumem, aby se pak zastavil na stojačku u speciálního výčepu firmy Louis Wantoch a vypil kalíšek griotky jako radostnou tečku za tak výhodným nákupem karfiolu a zeleniny do polévky.
 
 Když Francin odešel do kanceláře docela neusmířený, vybelhala jsem se do předsíňky, vytáhla bicykl a jela do města, šlapala lehce tou mojí bílou a bolavou nohou, ale pak každým šlápnutím jako by se mi posílil ten kotník, opřela jsem o zeď bicykl, a když jsem nahlédla do oficíny, na otáčecím křesle dřímal Boďa, vešla jsem a posadila se na volnou židli. Boďa jistě dokončil velkou rundu, protože z něho voněla jádra višní, jistě skončil u firmy Griotte podniky „Boďo,“ povídám. „Copak? Milostpaní?“ vstal a polekal se tak, že vzal nůžky a začal jimi štěbetat. „Povídám, Boďo, chtěla bych ostříhat vlasy.“ Boďa se polekal ještě víc. „Jak prosím?“ zabreptal. „Povídám, Boďo, chci ostříhat vlasy tak, jak to nosí Josefina Bakerová.“ Boďa potěžkal moje vlasy a vyvalil oči: „Tenhle zbytek starého Rakouska? Tohleto: Já, Anna Czilágová, narozená v Karlovicích na Moravě? Nikdy!“ A Boďa s despektem odhodil nůžky a posadil se a založil ruce a díval se oknem a trucoval. „Povídám, pane Boďo, pan doktor Gruntorád ostříhal hřebci hřívu i ocas a doporučil mi ten moderní postřih kvůli lupům.“ Boďa trval: „Tyhle vlasy ustřihnout, to je to samé, jako kdybych vyplivl po svatém přijímání svatou hostii!“ – „Povídám, Boďo, já vám podepíšu revers…“
@@ -30,3 +32,5 @@ A sehnul se a zdvihl redis pero číslo tři ze země, pak zašrouboval šlau�
 Vzala jsem tu hustilku a ukázala ji cyklistům a řekla:
 
 „Tuhle pumpičku jsem koupila u firmy Runkas v Masarykově třídě.“
+
+</section>

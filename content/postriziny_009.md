@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Na víku krabice silice svalů bylo napsáno: I vy budete vlastnit tak krásné tělo, mít mohutné svaly a strašlivou sílu!
 
 A Francin každé ráno cvičil svaly, které sice měl zrovna tak nádherné jako ten gladiátor na víku těch síličů svalů, avšak Francin viděl sám sebe jako staženého králíčka. Postavila jsem na plotnu hrnec s bramborami, vzala krabici, na které byla fotografie nádherného borce, a hlasitě jsem přečetla:
@@ -158,3 +160,5 @@ Strýc Pepin vzal víko kelímku, dal je Francinovi před oči a řekl pyšně:
 „To vyrábí středisko obuvnického světa ve Vídni, firma Salamander!“
 
 A strýc si přidržel na nose cvikr beze skel.
+
+</section>
