@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   languageCode: cs
+  isbn: 978-80-274-2488-7
 readingOrder:
   - promo.html
   - postriziny_005.html
