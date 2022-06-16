@@ -9,7 +9,8 @@
       "edition": "beletrie",
       "publisherShort": "mkp",
       "languageCode": "cs",
-      "isbn": "978-80-274-2488-7"
+      "isbn": "978-80-274-2488-7",
+      "contentType": "prose"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola ",
@@ -427,6 +428,6 @@
       "user": "books-are-next",
       "repo": "hrabal-postriziny2"
     },
-    "generatedAt": 1655271343814
+    "generatedAt": 1655364185293
   }
 }
