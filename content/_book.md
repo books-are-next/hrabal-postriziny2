@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   languageCode: cs
   isbn: 978-80-274-2488-7
+  contentType: prose
 readingOrder:
   - promo.html
   - postriziny_005.html
