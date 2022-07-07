@@ -30,7 +30,7 @@ readingOrder:
   - postriziny_016.html
   - postriziny_017.html
   - postriziny_019.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
