@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hrabal-postriziny-d778a10",
-  "revision": "d778a10",
+  "identifier": "hrabal-postriziny-12c8223",
+  "revision": "12c8223",
   "readingOrder": [
     "promo.html",
     "postriziny_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:40 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188040011
+    "date": "Thu Jul 21 2022 14:39:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414355445
   },
   "documents": [
     {
@@ -329,7 +329,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 131,
-      "chars": 880,
+      "chars": 881,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -349,7 +349,7 @@
   "totals": {
     "all": {
       "words": 29364,
-      "chars": 170361,
+      "chars": 170362,
       "ideas": 312
     },
     "chapters": {
